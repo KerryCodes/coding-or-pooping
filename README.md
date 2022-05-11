@@ -1,6 +1,5 @@
 # coding-or-pooping
-![如何把前端项目写成一座屎山？](https://juejin.cn/post/7086735198942920712)
-
+[如何把前端项目写成一座屎山？](https://juejin.cn/post/7086735198942920712)
 
 ## 前言
 
